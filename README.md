@@ -72,6 +72,6 @@ Tugas Augment Reality
     <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/689483ce-cd90-4d2b-939a-ad0f0b476a47" />
 
     Link Youtube Presentasi: https://youtu.be/5JdMOankwjs  
-   	Msrker: <img width="1080" height="1350" alt="coffee" src="https://github.com/user-attachments/assets/516906b9-acb4-46c9-8e69-67116780062b" />
+   	Marker: <img width="1080" height="1350" alt="coffee" src="https://github.com/user-attachments/assets/516906b9-acb4-46c9-8e69-67116780062b" />
 
 
